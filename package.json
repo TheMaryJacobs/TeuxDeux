@@ -1,0 +1,30 @@
+{
+  "name": "full-stack-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcbrian/full-stack-todo.git"
+  },
+  "author": "Brian Bartholomew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bcbrian/full-stack-todo/issues"
+  },
+  "homepage": "https://github.com/bcbrian/full-stack-todo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.0.2",
+    "sequelize": "^5.21.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "sequelize-cli": "^5.5.1"
+  }
+}
