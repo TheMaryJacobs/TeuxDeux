@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/bcbrian/full-stack-todo#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mysql2": "^2.0.2",
     "sequelize": "^5.21.3"
   },
